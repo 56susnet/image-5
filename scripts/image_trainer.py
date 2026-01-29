@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-image-2
+image-3
 """
 
 import argparse
